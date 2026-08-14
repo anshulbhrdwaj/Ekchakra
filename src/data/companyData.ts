@@ -622,6 +622,10 @@ export const PRODUCTS_CATALOG: ProductItem[] = [
   },
 ];
 
+export const SOLAR_PRODUCTS: ProductItem[] = PRODUCTS_CATALOG.filter((p) => p.category === 'solar');
+export const FMCG_PRODUCTS: ProductItem[] = PRODUCTS_CATALOG.filter((p) => p.category === 'fmcg');
+export const FAQ_ITEMS = FAQS;
+
 export const CERTIFICATIONS: Certification[] = [
   {
     id: 'iso-9001',
