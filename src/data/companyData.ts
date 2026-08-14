@@ -624,7 +624,6 @@ export const PRODUCTS_CATALOG: ProductItem[] = [
 
 export const SOLAR_PRODUCTS: ProductItem[] = PRODUCTS_CATALOG.filter((p) => p.category === 'solar');
 export const FMCG_PRODUCTS: ProductItem[] = PRODUCTS_CATALOG.filter((p) => p.category === 'fmcg');
-export const FAQ_ITEMS = FAQS;
 
 export const CERTIFICATIONS: Certification[] = [
   {
@@ -769,6 +768,8 @@ export const FAQS = [
     answer: 'You can use our interactive RFQ engine on this website, email contact@ekchakra.com, or message our global export desk via WhatsApp. We provide prompt CIF, FOB, and DDP quotes complete with HS Codes, phytosanitary certifications, and shipping schedules.',
   },
 ];
+
+export const FAQ_ITEMS = FAQS;
 
 export const GALLERY_ITEMS = [
   {
