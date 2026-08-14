@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+Disallow: /api/private/
+
+Sitemap: https://ekchakra.com/sitemap.xml

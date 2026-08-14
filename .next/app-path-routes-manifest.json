@@ -1,0 +1,14 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/about/page": "/about",
+  "/certifications/page": "/certifications",
+  "/contact/page": "/contact",
+  "/divisions/associate-companies/page": "/divisions/associate-companies",
+  "/divisions/fmcg-agro/page": "/divisions/fmcg-agro",
+  "/divisions/solar/page": "/divisions/solar",
+  "/gallery/page": "/gallery",
+  "/page": "/",
+  "/robots.txt/route": "/robots.txt",
+  "/sitemap.xml/route": "/sitemap.xml"
+}

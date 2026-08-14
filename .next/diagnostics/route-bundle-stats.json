@@ -1,0 +1,117 @@
+[
+  {
+    "route": "/",
+    "firstLoadUncompressedJsBytes": 601161,
+    "firstLoadChunkPaths": [
+      ".next/static/chunks/3fntmmi971322.js",
+      ".next/static/chunks/1a5gcmxlul7-k.js",
+      ".next/static/chunks/3gu62m3rgxk11.js",
+      ".next/static/chunks/1u5zan5bs9a7v.js",
+      ".next/static/chunks/1j5f642efrnjz.js",
+      ".next/static/chunks/3e4keds9ktjdu.js",
+      ".next/static/chunks/turbopack-0tp-_3-c14_lb.js"
+    ]
+  },
+  {
+    "route": "/about",
+    "firstLoadUncompressedJsBytes": 566534,
+    "firstLoadChunkPaths": [
+      ".next/static/chunks/3fntmmi971322.js",
+      ".next/static/chunks/3sibar8k10c1-.js",
+      ".next/static/chunks/3gu62m3rgxk11.js",
+      ".next/static/chunks/1u5zan5bs9a7v.js",
+      ".next/static/chunks/1j5f642efrnjz.js",
+      ".next/static/chunks/3e4keds9ktjdu.js",
+      ".next/static/chunks/turbopack-0tp-_3-c14_lb.js"
+    ]
+  },
+  {
+    "route": "/divisions/solar",
+    "firstLoadUncompressedJsBytes": 560607,
+    "firstLoadChunkPaths": [
+      ".next/static/chunks/3fntmmi971322.js",
+      ".next/static/chunks/1-rvp7445c3om.js",
+      ".next/static/chunks/3gu62m3rgxk11.js",
+      ".next/static/chunks/1u5zan5bs9a7v.js",
+      ".next/static/chunks/1j5f642efrnjz.js",
+      ".next/static/chunks/3e4keds9ktjdu.js",
+      ".next/static/chunks/turbopack-0tp-_3-c14_lb.js"
+    ]
+  },
+  {
+    "route": "/contact",
+    "firstLoadUncompressedJsBytes": 559613,
+    "firstLoadChunkPaths": [
+      ".next/static/chunks/3fntmmi971322.js",
+      ".next/static/chunks/0dkwafgkj-m_t.js",
+      ".next/static/chunks/3gu62m3rgxk11.js",
+      ".next/static/chunks/1u5zan5bs9a7v.js",
+      ".next/static/chunks/1j5f642efrnjz.js",
+      ".next/static/chunks/3e4keds9ktjdu.js",
+      ".next/static/chunks/turbopack-0tp-_3-c14_lb.js"
+    ]
+  },
+  {
+    "route": "/gallery",
+    "firstLoadUncompressedJsBytes": 557345,
+    "firstLoadChunkPaths": [
+      ".next/static/chunks/3fntmmi971322.js",
+      ".next/static/chunks/2b3fpk8zpuahf.js",
+      ".next/static/chunks/3gu62m3rgxk11.js",
+      ".next/static/chunks/1u5zan5bs9a7v.js",
+      ".next/static/chunks/1j5f642efrnjz.js",
+      ".next/static/chunks/3e4keds9ktjdu.js",
+      ".next/static/chunks/turbopack-0tp-_3-c14_lb.js"
+    ]
+  },
+  {
+    "route": "/divisions/fmcg-agro",
+    "firstLoadUncompressedJsBytes": 557237,
+    "firstLoadChunkPaths": [
+      ".next/static/chunks/3fntmmi971322.js",
+      ".next/static/chunks/36-yref0ssvdy.js",
+      ".next/static/chunks/3gu62m3rgxk11.js",
+      ".next/static/chunks/1u5zan5bs9a7v.js",
+      ".next/static/chunks/1j5f642efrnjz.js",
+      ".next/static/chunks/3e4keds9ktjdu.js",
+      ".next/static/chunks/turbopack-0tp-_3-c14_lb.js"
+    ]
+  },
+  {
+    "route": "/certifications",
+    "firstLoadUncompressedJsBytes": 556498,
+    "firstLoadChunkPaths": [
+      ".next/static/chunks/3fntmmi971322.js",
+      ".next/static/chunks/16q4w9kqr_aqb.js",
+      ".next/static/chunks/3gu62m3rgxk11.js",
+      ".next/static/chunks/1u5zan5bs9a7v.js",
+      ".next/static/chunks/1j5f642efrnjz.js",
+      ".next/static/chunks/3e4keds9ktjdu.js",
+      ".next/static/chunks/turbopack-0tp-_3-c14_lb.js"
+    ]
+  },
+  {
+    "route": "/divisions/associate-companies",
+    "firstLoadUncompressedJsBytes": 554457,
+    "firstLoadChunkPaths": [
+      ".next/static/chunks/3fntmmi971322.js",
+      ".next/static/chunks/37m2wzi4b19qr.js",
+      ".next/static/chunks/3gu62m3rgxk11.js",
+      ".next/static/chunks/1u5zan5bs9a7v.js",
+      ".next/static/chunks/1j5f642efrnjz.js",
+      ".next/static/chunks/3e4keds9ktjdu.js",
+      ".next/static/chunks/turbopack-0tp-_3-c14_lb.js"
+    ]
+  },
+  {
+    "route": "/_not-found",
+    "firstLoadUncompressedJsBytes": 453210,
+    "firstLoadChunkPaths": [
+      ".next/static/chunks/3fntmmi971322.js",
+      ".next/static/chunks/1u5zan5bs9a7v.js",
+      ".next/static/chunks/1j5f642efrnjz.js",
+      ".next/static/chunks/3e4keds9ktjdu.js",
+      ".next/static/chunks/turbopack-0tp-_3-c14_lb.js"
+    ]
+  }
+]

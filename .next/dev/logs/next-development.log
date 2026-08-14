@@ -1,0 +1,28 @@
+{"timestamp":"00:00:01.345","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:01.345","source":"Server","level":"LOG","message":"✓ Generated AGENTS.md and CLAUDE.md for AI agents. Set `agentRules: false` in next.config to disable."}
+{"timestamp":"00:03:21.998","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:22:57.333","source":"Server","level":"LOG","message":"✓ Compiled in 6.1s"}
+{"timestamp":"00:23:08.385","source":"Server","level":"LOG","message":"✓ Compiled in 1188ms"}
+{"timestamp":"00:23:21.053","source":"Server","level":"LOG","message":"✓ Compiled in 223ms"}
+{"timestamp":"00:23:35.977","source":"Server","level":"LOG","message":"✓ Compiled in 257ms"}
+{"timestamp":"00:23:47.378","source":"Server","level":"LOG","message":"✓ Compiled in 395ms"}
+{"timestamp":"00:23:57.738","source":"Server","level":"LOG","message":"✓ Compiled in 273ms"}
+{"timestamp":"00:24:07.502","source":"Server","level":"LOG","message":"✓ Compiled in 176ms"}
+{"timestamp":"00:24:16.451","source":"Server","level":"LOG","message":"✓ Compiled in 193ms"}
+{"timestamp":"00:24:28.159","source":"Server","level":"LOG","message":"✓ Compiled in 261ms"}
+{"timestamp":"00:24:37.135","source":"Server","level":"LOG","message":"✓ Compiled in 366ms"}
+{"timestamp":"00:24:48.981","source":"Server","level":"LOG","message":"✓ Compiled in 437ms"}
+{"timestamp":"00:25:00.494","source":"Server","level":"LOG","message":"✓ Compiled in 1183ms"}
+{"timestamp":"00:25:14.488","source":"Server","level":"LOG","message":"✓ Compiled in 3s"}
+{"timestamp":"00:25:36.109","source":"Server","level":"LOG","message":"✓ Compiled in 221ms"}
+{"timestamp":"00:25:44.418","source":"Server","level":"LOG","message":"✓ Compiled in 254ms"}
+{"timestamp":"00:25:56.520","source":"Server","level":"LOG","message":"✓ Compiled in 148ms"}
+{"timestamp":"00:26:05.060","source":"Server","level":"LOG","message":"✓ Compiled in 137ms"}
+{"timestamp":"00:26:15.714","source":"Server","level":"LOG","message":"✓ Compiled in 184ms"}
+{"timestamp":"00:26:28.046","source":"Server","level":"LOG","message":"✓ Compiled in 154ms"}
+{"timestamp":"00:26:37.253","source":"Server","level":"LOG","message":"✓ Compiled in 156ms"}
+{"timestamp":"00:26:53.585","source":"Server","level":"LOG","message":"✓ Compiled in 271ms"}
+{"timestamp":"00:29:06.923","source":"Server","level":"LOG","message":"✓ Compiled in 210ms"}
+{"timestamp":"00:34:51.256","source":"Server","level":"LOG","message":"○ Compiling /about ..."}
+{"timestamp":"00:35:31.161","source":"Browser","level":"WARN","message":"Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior=\"smooth\"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior"}
+{"timestamp":"00:35:31.642","source":"Server","level":"WARN","message":"[browser] \"Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior=\\\"smooth\\\"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior\""}
